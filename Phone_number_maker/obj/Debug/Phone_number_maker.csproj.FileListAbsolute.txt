@@ -1,0 +1,9 @@
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\bin\Debug\Phone_number_maker.exe.config
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\bin\Debug\Phone_number_maker.exe
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\bin\Debug\Phone_number_maker.pdb
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\obj\Debug\Phone_number_maker.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\obj\Debug\Phone_number_maker.Form1.resources
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\obj\Debug\Phone_number_maker.Properties.Resources.resources
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\obj\Debug\Phone_number_maker.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\obj\Debug\Phone_number_maker.exe
+C:\Users\Ali\Desktop\Phone_number_maker\Phone_number_maker\obj\Debug\Phone_number_maker.pdb
